@@ -122,6 +122,10 @@
 "publicKeyContent" = "public key content"
 "keyPath" = "key file path"
 "keyContent" = "key content"
+"path" = "path"
+"requestHeader" = "request header"
+"name" = "name"
+"value" = "value"
 
 [pages.inbounds.toasts]
 "obtain" = "Obtain"
