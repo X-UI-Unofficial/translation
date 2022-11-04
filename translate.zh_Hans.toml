@@ -41,6 +41,16 @@
 "success" = "成功"
 "getVersion" = "获取版本"
 "install" = "安装"
+"requestVersion" = "请求版本"
+"requestMethod" = "请求方法"
+"requestPath" = "请求路径"
+"requestHeader" = "请求头"
+"name" = "名称"
+"value" = "值"
+"responseVersion" = "响应版"
+"responseStatus" = "响应状"
+"responseReason" = "响应状态说"
+"responseHeader" = "响应"
 
 [menu]
 "dashboard" = "系统状态"

@@ -41,6 +41,16 @@
 "success" = "success"
 "getVersion" = "get version"
 "install" = "install"
+"requestVersion" = "request version"
+"requestMethod" = "request method"
+"requestPath" = "request path"
+"requestHeader" = "request header"
+"name" = "name"
+"value" = "value"
+"responseVersion" = "response version"
+"responseStatus" = "response status"
+"responseReason" = "response reason"
+"responseHeader" = "response header"
 
 [menu]
 "dashboard" = "System Status"
