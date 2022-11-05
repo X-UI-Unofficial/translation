@@ -134,6 +134,9 @@
 "responseReason" = "response reason"
 "responseHeader" = "response header"
 "camouflage" = "camouflage"
+"password" = "password"
+"encryption" = "encryption"
+
 
 [pages.inbounds.toasts]
 "obtain" = "Obtain"

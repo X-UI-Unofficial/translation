@@ -136,6 +136,7 @@
 "responseReason" = "Ly Do Phản Hồi"
 "responseHeader" = "Tiêu Đề Phản Hồi"
 "camouflage" = "Thay Đổi Định Dạng"
+"encryption" = "Mã Hóa"
 
 [pages.inbounds.toasts]
 "obtain" = "Chấp Nhận"
