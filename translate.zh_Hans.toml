@@ -132,6 +132,7 @@
 "responseStatus" = "响应状"
 "responseReason" = "响应状态说"
 "responseHeader" = "响应"
+"camouflage" = "伪装"
 
 [pages.inbounds.toasts]
 "obtain" = "获取"

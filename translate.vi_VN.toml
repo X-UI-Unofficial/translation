@@ -135,6 +135,7 @@
 "responseStatus" = "Trạng Thái Phản Hồi"
 "responseReason" = "Ly Do Phản Hồi"
 "responseHeader" = "Tiêu Đề Phản Hồi"
+"camouflage" = "Thay Đổi Định Dạng"
 
 [pages.inbounds.toasts]
 "obtain" = "Chấp Nhận"

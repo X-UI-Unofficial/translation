@@ -133,8 +133,7 @@
 "responseStatus" = "response status"
 "responseReason" = "response reason"
 "responseHeader" = "response header"
-"name" = "name"
-"value" = "value"
+"camouflage" = "camouflage"
 
 [pages.inbounds.toasts]
 "obtain" = "Obtain"
