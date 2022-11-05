@@ -137,6 +137,8 @@
 "responseHeader" = "Tiêu Đề Phản Hồi"
 "camouflage" = "Thay Đổi Định Dạng"
 "encryption" = "Mã Hóa"
+"username" = "Tên Đăng Nhập"
+"password" = "Mật Khẩu"
 
 [pages.inbounds.toasts]
 "obtain" = "Chấp Nhận"

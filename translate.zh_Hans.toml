@@ -134,6 +134,8 @@
 "responseHeader" = "响应"
 "camouflage" = "伪装"
 "encryption" = "加密"
+"username" = "用户名"
+"password" = "密码"
 
 [pages.inbounds.toasts]
 "obtain" = "获取"
