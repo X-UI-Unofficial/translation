@@ -41,16 +41,6 @@
 "success" = "Thành Công Rồi Đó"
 "getVersion" = "Chọn Phiên Bản"
 "install" = "Cài Đặt"
-"requestVersion" = "Yêu Cầu Phiên Bản"
-"requestMethod" = "Phương Pháp Yêu Cầu"
-"requestPath" = "Yêu Cầu Đường Dẫn"
-"requestHeader" = "Yêu Cầu Tiêu Đề"
-"name" = "Tên"
-"value" = "Gía Trị"
-"responseVersion" = "Phản Hồi Phiên Bản"
-"responseStatus" = "Trạng Thái Phản Hồi"
-"responseReason" = "Ly Do Phản Hồi"
-"responseHeader" = "Tiêu Đề Phản Hồi"
 
 [menu]
 "dashboard" = "Trang Chủ Hệ Thống"
@@ -59,9 +49,11 @@
 "logout" = "Đăng Xuất"
 "link" = "Khác"
 
+
 [pages.login]
 "title" = "Đăng Nhập"
 "loginAgain" = "Thời hạn đăng nhập đã hết, vui lòng đăng nhập lại..."
+
 
 [pages.login.toasts]
 "invalidFormData" = "Định dạng dữ liệu đầu vào không hợp lệ !"
@@ -133,9 +125,16 @@
 "keyPath" = "Đường dẫn tệp chính"
 "keyContent" = "Nội dung chính"
 "path" = "Đường dẫn"
-"requestHeader" = "Yêu cầu tiêu đề"
 "name" = "Tên"
 "value" = "Gía Trị"
+"requestVersion" = "Yêu Cầu Phiên Bản"
+"requestMethod" = "Phương Pháp Yêu Cầu"
+"requestPath" = "Yêu Cầu Đường Dẫn"
+"requestHeader" = "Yêu Cầu Tiêu Đề"
+"responseVersion" = "Phản Hồi Phiên Bản"
+"responseStatus" = "Trạng Thái Phản Hồi"
+"responseReason" = "Ly Do Phản Hồi"
+"responseHeader" = "Tiêu Đề Phản Hồi"
 
 [pages.inbounds.toasts]
 "obtain" = "Chấp Nhận"
