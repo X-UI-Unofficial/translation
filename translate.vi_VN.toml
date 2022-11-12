@@ -44,7 +44,7 @@
 
 [menu]
 "dashboard" = "Trang Chủ Hệ Thống"
-"inbounds" = "Server"
+"inbounds" = "Nút"
 "setting" = "Cài Đặt Bảng Điều Khiển"
 "logout" = "Đăng Xuất"
 "link" = "Khác"
@@ -87,12 +87,12 @@
 
 [pages.inbounds]
 "title" = "Server"
-"totalDownUp" = "Tổng số lượt tải lên / lượt tải xuống"
+"totalDownUp" = "Tổng số lưu lượng tải lên / tải xuống"
 "totalUsage" = "Tổng dung lượng sử dụng"
 "inboundCount" = "Số lượng"
-"operate" = "Máy Chủ"
-"enable" = "Đang Kích Hoạt"
-"remark" = "Nhận Xét"
+"operate" = "Menu"
+"enable" = "Bật / Tắt"
+"remark" = "Tên Nút"
 "protocol" = "Giao Thức"
 "port" = "Cổng Port"
 "traffic" = "Lưu Lượng Dữ Liệu"
