@@ -86,11 +86,11 @@
 
 
 [pages.inbounds]
-"title" = "Inbounds"
+"title" = "Server"
 "totalDownUp" = "Tổng số lượt tải lên / lượt tải xuống"
 "totalUsage" = "Tổng dung lượng sử dụng"
 "inboundCount" = "Số lượng"
-"operate" = "Vận Hành"
+"operate" = "Máy Chủ"
 "enable" = "Đang Kích Hoạt"
 "remark" = "Nhận Xét"
 "protocol" = "Giao Thức"
