@@ -44,7 +44,7 @@
 
 [menu]
 "dashboard" = "Trang Chủ Hệ Thống"
-"inbounds" = "Inbounds"
+"inbounds" = "Server"
 "setting" = "Cài Đặt Bảng Điều Khiển"
 "logout" = "Đăng Xuất"
 "link" = "Khác"
