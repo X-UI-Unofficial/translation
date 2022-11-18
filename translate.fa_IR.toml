@@ -142,6 +142,22 @@
 [pages.inbounds.toasts]
 "obtain" = "گرفتن"
 
+[pages.inbounds.stream.general]
+"requestHeader" = "درخواست هدر"
+"name" = "نام"
+"value" = "مقدار"
+
+[pages.inbounds.stream.tcp]
+"requestVersion" = "درخواست نسخه"
+"requestMethod" = "درخواست روش"
+"requestPath" = "درخواست مسیر"
+"responseVersion" = "پاسخ نسخه"
+"responseStatus" = "پاسخ وضعیت"
+"responseStatusDescription" = "پاسخ توضیحات وضعیت"
+"responseHeader" = "پاسخ هدر"
+
+[pages.inbounds.stream.quic]
+"encryption" = "رمزنگاری"
 
 [pages.setting]
 "title" = "تنظیمات"
