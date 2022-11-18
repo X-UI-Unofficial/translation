@@ -140,8 +140,24 @@
 
 
 [pages.inbounds.toasts]
-"obtain" = "Obter"
+"obtain" = "Obtain"
 
+[pages.inbounds.stream.general]
+"requestHeader" = "Cabeçalho da solicitação"
+"name" = "Nome"
+"value" = "Valor"
+
+[pages.inbounds.stream.tcp]
+"requestVersion" = "Versão solicitada"
+"requestMethod" = "Método de solicitação"
+"requestPath" = "Caminho da solicitação"
+"responseVersion" = "Versão de resposta"
+"responseStatus" = "Status de resposta"
+"responseStatusDescription" = "Descrição do status de resposta"
+"responseHeader" = "Cabeçalho de resposta"
+
+[pages.inbounds.stream.quic]
+"encryption" = "Criptografia"
 
 [pages.setting]
 "title" = "Configurações"
