@@ -168,7 +168,7 @@
 "newUsername" = "Novo nome de usuário"
 "newPassword" = "Nova senha"
 "xrayConfigTemplate" = "Modelo de configuração do XRAY"
-"xrayConfigTemplateDesc" = "Gerando o arquivo de configuração XRAY final com base neste modelo. Reinicie o painel para entrar em vigor
+"xrayConfigTemplateDesc" = "Gerando o arquivo de configuração XRAY final com base neste modelo. Reinicie o painel para entrar em vigor"
 "telegramBotEnable" = "Habilitar bot do Telegram"
 "telegramBotEnableDesc" = "Reinicie o painel para entrar em vigor"
 "telegramToken" = "Token do bot do Telegram"
@@ -183,6 +183,6 @@
 [pages.setting.toasts]
 "modifySetting" = "Modificar configurações"
 "getSetting" = "Obter configurações"
-"modifyUser" = "Modificar usuário
+"modifyUser" = "Modificar usuário"
 "originalUserPassIncorrect" = "O nome de usuário atual ou a senha original está incorreto"
 "userPassMustBeNotEmpty" = "Novo nome de usuário e nova senha não podem estar vazios"
