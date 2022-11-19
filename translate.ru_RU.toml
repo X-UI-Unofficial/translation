@@ -7,7 +7,7 @@
 "copy" = "Скопировать"
 "copied" = "Скопировано"
 "download" = "Скачать"
-"remark" = "Remark"
+"remark" = "Название"
 "enable" = "Включить"
 "protocol" = "Протокол"
 
@@ -27,7 +27,7 @@
 "copySuccess" = "Успешно скопировано"
 "sure" = "Уверен"
 "encryption" = "Шифрование"
-"transmission" = "Transmission"
+"transmission" = "Протокол"
 "host" = "Хост"
 "path" = "Путь"
 "camouflage" = "Камуфляж"
@@ -44,7 +44,7 @@
 
 [menu]
 "dashboard" = "Состояние системы"
-"inbounds" = "Inbounds"
+"inbounds" = "Профили"
 "setting" = "Настройки"
 "logout" = "Выйти"
 "link" = "Другое"
@@ -84,26 +84,26 @@
 
 
 [pages.inbounds]
-"title" = "Inbounds"
+"title" = "Профили"
 "totalDownUp" = "Общее количество загрузок/скачиваний"
 "totalUsage" = "Общее использование"
-"inboundCount" = "Количество Inbounds"
+"inboundCount" = "Количество профилей"
 "operate" = "действие"
 "enable" = "включить"
-"remark" = "remark"
+"remark" = "название"
 "protocol" = "протокол"
 "port" = "порт"
 "traffic" = "трафик"
 "details" = "детали"
-"transportConfig" = "Конфигурация Transport"
+"transportConfig" = "Конфигурация протокола"
 "expireDate" = "Истекает"
 "resetTraffic" = "Сбросить трафик"
-"addInbound" = "Добавить Inbound"
+"addInbound" = "Добавить профиль"
 "addTo" = "Добавить в"
 "revise" = "Изменить"
-"modifyInbound" = "Изменить Inbound"
-"deleteInbound" = "Удалить Inbound"
-"deleteInboundContent" = "Вы уверены, что хотите удалить Inbound?"
+"modifyInbound" = "Изменить профиль"
+"deleteInbound" = "Удалить профиль"
+"deleteInboundContent" = "Вы уверены, что хотите удалить профиль?"
 "resetTrafficContent" = "Вы уверены, что хотите сбросить трафик?"
 "copyLink" = "Скопировать ссылку"
 "address" = "Адрес"
@@ -142,6 +142,22 @@
 [pages.inbounds.toasts]
 "obtain" = "Получить"
 
+[pages.inbounds.stream.general]
+"requestHeader" = "Заголовок запроса"
+"name" = "Имя"
+"value" = "Значение"
+
+[pages.inbounds.stream.tcp]
+"requestVersion" = "Версия запроса"
+"requestMethod" = "Метод запроса"
+"requestPath" = "Путь запроса"
+"responseVersion" = "Версия ответа"
+"responseStatus" = "Статус ответа"
+"responseStatusDescription" = "Описание статуса ответа"
+"responseHeader" = "Заголовок ответа"
+
+[pages.inbounds.stream.quic]
+"encryption" = "Шифрование"
 
 [pages.setting]
 "title" = "Настройки"
