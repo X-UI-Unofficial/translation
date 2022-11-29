@@ -203,3 +203,9 @@
 "modifyUser" = "Sửa đổi người dùng"
 "originalUserPassIncorrect" = "Tên người dùng ban đầu hoặc mật khẩu ban đầu không chính xác"
 "userPassMustBeNotEmpty" = "Tên người dùng mới và mật khẩu mới không được để trống"
+
+[api.inbound]
+"removeInboundSuccessMessage" = "Removed inbound successfully"
+
+[api.auth]
+"unauthorizedMessage" = "You are unauthenticated"

@@ -202,3 +202,9 @@
 "modifyUser" = "Modificar usuário"
 "originalUserPassIncorrect" = "O nome de usuário atual ou a senha original está incorreto"
 "userPassMustBeNotEmpty" = "Novo nome de usuário e nova senha não podem estar vazios"
+
+[api.inbound]
+"removeInboundSuccessMessage" = "Removed inbound successfully"
+
+[api.auth]
+"unauthorizedMessage" = "You are unauthenticated"

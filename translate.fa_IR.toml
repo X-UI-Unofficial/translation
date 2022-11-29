@@ -202,3 +202,9 @@
 "modifyUser" = "تغییر کاربر"
 "originalUserPassIncorrect" = "نام کاربری اصلی یا رمز عبور اصلی نادرست است"
 "userPassMustBeNotEmpty" = "نام کاربری جدید و رمز عبور جدید نمی توانند خالی باشند"
+
+[api.inbound]
+"removeInboundSuccessMessage" = "Removed inbound successfully"
+
+[api.auth]
+"unauthorizedMessage" = "You are unauthenticated"
